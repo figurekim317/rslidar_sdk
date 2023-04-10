@@ -1,9 +1,5 @@
 # 1 **rslidar_sdk**
 
- [中文介绍](README_CN.md) 
-
-
-
 ## 1 Introduction
 
 **rslidar_sdk** is the Software Development Kit of the RoboSense Lidar based on Ubuntu. It contains:
