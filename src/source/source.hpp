@@ -1,4 +1,5 @@
-agma once
+#pragma once
+#include "msg/rs_msg/lidar_point_cloud_msg.hpp"#pragma once
 #include "msg/rs_msg/lidar_point_cloud_msg.hpp"
 
 #include "utility/yaml_reader.hpp"
