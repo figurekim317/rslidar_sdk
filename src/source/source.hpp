@@ -1,5 +1,4 @@
 #pragma once
-#include "msg/rs_msg/lidar_point_cloud_msg.hpp"#pr#pragma once
 #include "msg/rs_msg/lidar_point_cloud_msg.hpp"#pragma once
 #include "msg/rs_msg/lidar_point_cloud_msg.hpp"
 
