@@ -1,5 +1,4 @@
 
-
 #include <rs_driver/msg/packet.hpp>
 
 namespace robosense
